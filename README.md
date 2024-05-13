@@ -7,7 +7,7 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontrará uma lista dos pr
 1. **Projeto Android**
    - Descrição: Este foi foi desenvolvido pelo Professor Gustavo Guanabara afins didático.
    - Tecnologias utilizadas: HTML e CSS.
-   - [[Link para o código fonte](https://github.com/profmartinz/projeto-android)
+   - [Link para o código fonte](https://github.com/profmartinz/projeto-android)
    - [Demo](https://profmartinz.github.io/projeto-android/)
 
 2. **Projeto Cordel**
@@ -34,7 +34,7 @@ Bem-vindo ao meu portfólio de projetos! Aqui você encontrará uma lista dos pr
    - Descrição: Este foi foi desenvolvido pelo Professor Martins afins didático.
    - Licença: Livre desde que citado o autor
    - Tecnologias utilizadas: HTML e CSS.
-   - [[Link para o código fonte](https://github.com/profmartinz/mar-azul-resort)
+   - [Link para o código fonte](https://github.com/profmartinz/mar-azul-resort)
    - [Demo](https://profmartinz.github.io/mar-azul-resort)
 
 Sinta-se à vontade para explorar os projetos! Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato.
